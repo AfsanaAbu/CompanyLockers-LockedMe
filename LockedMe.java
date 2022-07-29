@@ -76,6 +76,9 @@ public class LockedMe {
 			// TODO Auto-generated catch block
 			System.out.println("An error occured.Please try again");
 		}
+		System.out.println(".................................................................");
+	      displayOptions();
+	      select();
     }
 	
 	public static void searchFile() {
